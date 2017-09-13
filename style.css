@@ -46,7 +46,14 @@ h1 {
     display: block;
     text-align: center;
     border-radius: 6px;
+    box-shadow: 0 9px #F4A817;
     font-weight: bold;
+}
+
+#button:active {
+  background-color: #ddb61c;
+  box-shadow: 0 5px #F4A817;
+  transform: translateY(4px);
 }
 
 #color-default {
