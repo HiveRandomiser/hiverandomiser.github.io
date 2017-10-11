@@ -1,4 +1,4 @@
-var NumberOfWords = 29
+var NumberOfWords = 30
 
 var words = new BuildArray(NumberOfWords)
 
@@ -19,7 +19,7 @@ words[14] = "Bed Wars: Solo"
 words[15] = "Bed Wars: Duo"
 words[16] = "Hide and Seek"
 words[17] = "SkyWars: Solo"
-words[18] = "Skywars: Teams"
+words[18] = "Skywars: Duos"
 words[19] = "SkyGiants"
 words[20] = "SkyGiants: Mini"
 words[21] = "DeathRun"
@@ -31,6 +31,7 @@ words[26] = "SurvivalGames 2.0"
 words[27] = "Cowboys and Indians"
 words[28] = "Gravity"
 words[29] = "The Lab"
+words[30] = "Skywars: Teams"
 
 function BuildArray(size){
 this.length = size
