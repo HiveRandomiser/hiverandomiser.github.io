@@ -1,4 +1,4 @@
-var NumberOfWords = 31
+var NumberOfWords = 26
 
 var words = new BuildArray(NumberOfWords)
 
@@ -8,7 +8,6 @@ words[3] = "Battery Dash"
 words[4] = "One in the Chamber"
 words[5] = "Splegg"
 words[6] = "Draw It"
-words[7] = "The Herobrine"
 words[8] = "Sploop"
 words[9] = "Heroes"
 words[10] = "Slaparoo"
@@ -20,19 +19,14 @@ words[15] = "Bed Wars: Duo"
 words[16] = "Hide and Seek"
 words[17] = "SkyWars: Solo"
 words[18] = "SkyWars: Duos"
-words[19] = "SkyGiants"
-words[20] = "SkyGiants: Mini"
-words[21] = "DeathRun"
-words[22] = "Trouble in Mineville"
-words[23] = "Murder in Mineville"
-words[24] = "BlockParty"
-words[25] = "SurvivalGames"
-words[26] = "SurvivalGames 2.0"
-words[27] = "Cowboys and Indians"
-words[28] = "Gravity"
-words[29] = "The Lab"
-words[30] = "SkyWars: Teams"
-words[31] = "Arcade Shuffle"
+words[19] = "DeathRun"
+words[20] = "Trouble in Mineville"
+words[21] = "BlockParty"
+words[22] = "SurvivalGames 2.0"
+words[23] = "Gravity"
+words[24] = "The Lab"
+words[25] = "SkyWars: Teams"
+words[26] = "Arcade Shuffle"
 
 function BuildArray(size){
 this.length = size
