@@ -1,4 +1,4 @@
-var NumberOfWords = 26
+var NumberOfWords = 27
 
 var words = new BuildArray(NumberOfWords)
 
@@ -26,7 +26,8 @@ words[22] = "SurvivalGames 2.0"
 words[23] = "Gravity"
 words[24] = "The Lab"
 words[25] = "SkyWars: Teams"
-words[26] = "Arcade Shuffle"
+words[26] = "EF:Turbo"
+words[27] = "Instagib"
 
 function BuildArray(size){
 this.length = size
